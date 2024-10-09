@@ -15,8 +15,8 @@ body{
 footer{
 position: fixed;
 bottom: 0;
-background-color
-
-
-
+background-color: var(--preto);
+color: var(--branco);
+width: 100%;
+test-align: center;
 }
