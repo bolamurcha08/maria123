@@ -55,3 +55,8 @@ text-align: center;
    font-size: 1.4rem;
    padding: 2rem;
 }
+
+.resposta-cartao{
+   font-weight: 700;
+   color: var(--destaque);
+}
