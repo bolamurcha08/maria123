@@ -51,5 +51,7 @@ text-align: center;
 }
 
 .conteudo-cartao p{
-   margin-top:
+   margin-top: 4rem;
+   font-size: 1.4rem;
+   padding: 2rem;
 }
