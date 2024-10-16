@@ -69,7 +69,7 @@ text-align: center;
    color: var(--destaque)
 }
 
-.cartao:active  .conteudo-cartao{
+.cartao.active  .conteudo-cartao{
    transform: rotateY(180deg);
 }
 
