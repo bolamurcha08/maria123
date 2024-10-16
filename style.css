@@ -61,11 +61,6 @@ text-align: center;
 
 .resposta-cartao{
    font-weight: 700;
-   color: var(--destaque);
-}
-
-.resposta-cartao{
-   font-weight: 700;
    color: var(--destaque)
 }
 
