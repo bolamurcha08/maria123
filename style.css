@@ -18,13 +18,13 @@ bottom: 0;
 background-color: var(--preto);
 color: var(--branco);
 width: 100%;
-test-align: center;
+text-align: center;
 }
 #container{
    display: flex;
    padding: 4rem;
    gap: 3rem;
-   flex-wrap: wrap:wrap
+   flex-wrap: wrap;
 }
 .cartao{
    flex-grow: 1;
