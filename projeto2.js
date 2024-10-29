@@ -26,3 +26,5 @@ function criacartao(categoria, pergunta,resposta){
     else{
         resposta.style.display
     }
+
+}
