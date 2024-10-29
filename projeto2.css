@@ -1,8 +1,8 @@
 :root{
     --fundo :#fefffb;
     --cartao-frente:#808080;
-    --cartao-verso:#000000;
-    --destaque:#a50aff;
+    --cartao-verso:#51cfee;
+    --destaque:#a50aff  ;
     --preto:#000000;
     --branco:#ffffff;    
     }
@@ -46,6 +46,7 @@
         box-shadow: 2px 2px 2px var(--preto);
         border: 1px solid var(--preto);
         border-radius: 10px;
+        cursor: pointer;
     }
 
     .conteudo-cartao:hover{
